@@ -1,10 +1,10 @@
-### Hi, I'm Pei-Je Ssu 👋
+### Hi, I'm Justin (Pei-Je Ssu) 👋
 
 Software engineer focused on **full-stack web development** with **Java / Spring Boot** and **React**, with a soft spot for CI/CD, testing, and making team workflows run smoothly.
 
-- 🎓 B.S. in Computer Science and Engineering, National Taiwan Ocean University (2026) — GPA 4.0/4.0, top 7.2%, graduated one semester early
-- 🔬 Former research intern at the Database and Software Engineering Lab, National Cheng Kung University
-- 🏆 3rd Place, Information Applications Track, 30th InnoServe Awards (1,964 teams nationwide)
+- 🎓 B.S. in CSE, National Taiwan Ocean University · GPA 4.0/4.0 · Top 7.2%
+- 🔬 Research intern, Database & Software Engineering Lab, NCKU
+- 🏆 3rd Place, 30th InnoServe Awards (1,964 teams nationwide)
 - 🌱 Open to software engineering roles and graduate programs
 
 ---
@@ -30,10 +30,10 @@ A booking platform for campus classrooms with role-based access for students and
 
 ### 🛠 Tech Stack
 
-**Languages:** Java · JavaScript · Python · Bash
-**Backend & Frontend:** Spring Boot · React · RESTful APIs · Server-Sent Events
-**Data & AI:** MongoDB · Firebase · Gemini API
-**DevOps & Testing:** Git · GitHub Actions · Docker · Kubernetes (K3s) · SonarQube · JUnit · Jest
+- **Languages:** Java · JavaScript · Python · Bash
+- **Backend & Frontend:** Spring Boot · React · RESTful APIs · Server-Sent Events
+- **Data & AI:** MongoDB · Firebase · Gemini API
+- **DevOps & Testing:** Git · GitHub Actions · Docker · Kubernetes (K3s) · SonarQube · JUnit · Jest
 
 ---
 
