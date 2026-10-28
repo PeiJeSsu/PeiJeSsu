@@ -17,14 +17,13 @@ An app that reads users' drawings and chats with Gemini to respond with empathy.
 - Real-time streaming chat over Server-Sent Events, persisted in MongoDB
 - CI/CD running 1,300+ JUnit & Jest tests with SonarQube on every push
 - **Stack:** React · Spring Boot · MongoDB (GridFS) · Gemini API
-- [Live demo](https://feelink-frontend.vercel.app) · [Frontend](https://github.com/PeiJeSsu/feelink_frontend) · [Backend](https://github.com/PeiJeSsu/feelink_backend)
+- [Frontend](https://github.com/PeiJeSsu/feelink_frontend) · [Backend](https://github.com/PeiJeSsu/feelink_backend)
 
 #### [Classroom Reservation System](https://github.com/PeiJeSsu/Classroom-Reservation) · *Team Lead*
 Campus classroom booking with role-based access for students and admins.
 - Booking service that rejects overlapping, duplicate, or banned requests
 - Firebase auth with Google sign-in, email verification, and school-email checks
 - **Stack:** React · Material UI · Spring Boot · MongoDB Atlas · Firebase
-- [Live demo](https://classroom-reservation-seven.vercel.app)
 
 ---
 
