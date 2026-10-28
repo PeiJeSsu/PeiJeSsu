@@ -5,6 +5,8 @@ Full-stack developer (**Spring Boot** + **React**) who cares about testing and C
 - 🎓 B.S. in CSE, National Taiwan Ocean University · GPA 4.0/4.0 · Top 7.2%
 - 🔬 Research intern, Database & Software Engineering Lab, NCKU
 - 🏆 3rd Place, 30th InnoServe Awards (1,964 teams nationwide)
+- 🧭 Team lead on 4 projects · Scrum Master on 2
+- 🌐 TOEFL iBT 100 (MyBest) · TOEIC 875
 - 🌱 Open to software engineering roles and graduate programs
 
 ---
@@ -23,17 +25,19 @@ An app that reads users' drawings and chats with Gemini to respond with empathy.
 Campus classroom booking with role-based access for students and admins.
 - Booking service that rejects overlapping, duplicate, or banned requests
 - Firebase auth with Google sign-in, email verification, and school-email checks
-- **Stack:** React · Material UI · Spring Boot · MongoDB Atlas · Firebase
+- Dockerized Spring Boot backend on Render, React frontend on Vercel
+- **Stack:** React · Spring Boot · MongoDB · Firebase · Docker
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Languages:** Java · JavaScript · Python · Bash
-- **Backend & Frontend:** Spring Boot · React · RESTful APIs · Server-Sent Events
+- **Languages:** Java · JavaScript · Python · SQL · C · C++ · HTML/CSS
+- **Frameworks:** Spring Boot · React · RESTful APIs · Server-Sent Events
 - **Data & AI:** MongoDB · Firebase · Gemini API
 - **DevOps:** Git · GitHub Actions · Docker · Kubernetes (K3s)
-- **Testing & Quality:** JUnit · Jest · SonarQube
+- **Testing & Quality:** JUnit · Jest · SonarQube · Postman
+- **Practices:** Agile/Scrum · CI/CD · Code Review · Jira
 
 ---
 
