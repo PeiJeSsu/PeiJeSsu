@@ -27,6 +27,7 @@ Campus classroom booking with role-based access for students and admins.
 - Firebase auth with Google sign-in, email verification, and school-email checks
 - Dockerized Spring Boot backend on Render, React frontend on Vercel
 - **Stack:** React · Spring Boot · MongoDB · Firebase · Docker
+- [🎬 Demo video](https://youtu.be/sMxRTr58JmI)
 
 ---
 
