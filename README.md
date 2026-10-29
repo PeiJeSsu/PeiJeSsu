@@ -18,7 +18,7 @@ An app that reads users' drawings and chats with Gemini to respond with empathy.
 - Crisis-aware replies that escalate to hotlines based on a 5-level risk score
 - Real-time streaming chat over Server-Sent Events, persisted in MongoDB
 - CI/CD running 1,300+ JUnit & Jest tests with SonarQube on every push
-- **Stack:** React · Spring Boot · MongoDB (GridFS) · Gemini API
+- **Stack:** React · Spring Boot · MongoDB · Gemini API
 - [🎬 Demo video](https://youtu.be/wIL9Pozo4Vw) · [Frontend](https://github.com/PeiJeSsu/feelink_frontend) · [Backend](https://github.com/PeiJeSsu/feelink_backend)
 
 #### [Classroom Reservation System](https://github.com/PeiJeSsu/Classroom-Reservation) · *Team Lead*
