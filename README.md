@@ -44,4 +44,5 @@ Campus classroom booking with role-based access for students and admins.
 
 ### 📫 Get in Touch
 
-📧 [ssu.pei.je@gmail.com](mailto:ssu.pei.je@gmail.com)
+- 📧 [ssu.pei.je@gmail.com](mailto:ssu.pei.je@gmail.com)
+- 💼 [linkedin.com/in/peijessu](https://www.linkedin.com/in/peijessu/)
