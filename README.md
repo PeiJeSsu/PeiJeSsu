@@ -10,12 +10,14 @@ Applying to U.S. MSCS programs and open to any backend or AI opportunity.
 ### Projects
 
 **[FeelInk](https://peijessu.github.io/projects/feelink)** · Team Lead & Scrum Master
-An emotional support platform where users draw and chat with an AI.
-[Demo](https://youtu.be/wIL9Pozo4Vw) · [Frontend](https://github.com/PeiJeSsu/feelink_frontend) · [Backend](https://github.com/PeiJeSsu/feelink_backend)
+
+- An emotional support platform where users draw and chat with an AI.
+- [Demo](https://youtu.be/wIL9Pozo4Vw) · [Frontend](https://github.com/PeiJeSsu/feelink_frontend) · [Backend](https://github.com/PeiJeSsu/feelink_backend)
 
 **[Classroom Reservation System](https://peijessu.github.io/projects/class-reservation-system)** · Team Lead & Scrum Master
-A platform for booking campus classrooms and managing rooms and keys.
-[Demo](https://youtu.be/sMxRTr58JmI) · [Code](https://github.com/PeiJeSsu/Classroom-Reservation)
+
+- A platform for booking campus classrooms and managing rooms and keys.
+- [Demo](https://youtu.be/sMxRTr58JmI) · [Code](https://github.com/PeiJeSsu/Classroom-Reservation)
 
 ### Skills
 
